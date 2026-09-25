@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/stellarappImagens_16.png">icons/stellarappImagens_16.png</file>
+        <file alias="icons/stellarappImagens_32.png">icons/stellarappImagens_32.png</file>
+        <file alias="icons/stellarappImagens_48.png">icons/stellarappImagens_48.png</file>
+        <file alias="icons/stellarappImagens_64.png">icons/stellarappImagens_64.png</file>
+        <file alias="icons/stellarappImagens_128.png">icons/stellarappImagens_128.png</file>
+        <file alias="icons/stellarappImagens_256.png">icons/stellarappImagens_256.png</file>
+        <file alias="icons/stellarappImagens_512.png">icons/stellarappImagens_512.png</file>
+    </qresource>
+</RCC>
